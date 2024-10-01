@@ -8,9 +8,9 @@ Este proyecto incluye la limpieza y formateo de datos relacionados con el análi
 
 ## Archivos importantes
 
-- **data_cleaning.py**: Script de Python para limpiar los datos.
 - **data/**: Carpeta que contiene los archivos de datos originales y los procesados.
-- **index.html**: Página web con la explicación del proyecto.
+  - **data_cleaning.py**: Script de Python para limpiar los datos.
+  - **index.html**: Página web con la explicación del proyecto.
 
 ## Enlace a la página web
 
