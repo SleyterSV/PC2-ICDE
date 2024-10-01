@@ -1,14 +1,8 @@
-# Proyecto PC2
+# Proyecto PC2-ICDE
 
-Este repositorio contiene un proyecto para limpiar y formatear datos usando Python.
+Este proyecto incluye la limpieza y formateo de datos relacionados con el análisis de datos.
 
-## Archivos importantes
+## Enlace a la página web
 
-- **data_cleaning.py**: Script de Python para limpiar los datos.
-- **data/**: Carpeta que contiene los archivos de datos originales y los procesados.
-- **index.html**: Página web con la explicación del proyecto.
-
-## Página web
-
-Puedes ver la página web del proyecto en el siguiente enlace: https://sleytersv.github.io/PC2/
+Puedes ver la página web del proyecto en el siguiente enlace: https://SleyterSV.github.io/PC2-ICDE/
 
